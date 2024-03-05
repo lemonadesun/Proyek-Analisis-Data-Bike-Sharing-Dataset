@@ -42,5 +42,6 @@ Sumber data yang digunakan berasal dari https://www.kaggle.com/datasets/lakshmi2
    ```
     python -m streamlit run bike.py
    ```
-
+3. Upload file bike.py ke github
+4. Diploy menggunakan streamlit app dengan menghubungkannya dengan github
      
